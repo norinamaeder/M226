@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Erstellungszeit: 07. Dez 2018 um 09:49
+-- Erstellungszeit: 07. Dez 2018 um 17:10
 -- Server-Version: 10.1.30-MariaDB
 -- PHP-Version: 7.2.2
 
@@ -69,8 +69,8 @@ INSERT INTO `ersteller` (`id`, `Name`, `Vorname`, `E-Mail-Adresse`, `Passwort`) 
 (2, 'Schule', 'Melanie', 'schule.melanie@gmail.com', 'Migros'),
 (3, 'Tbz', 'Test', 'tbz.test@gmail.com', 'Migros'),
 (4, 'Schneider', 'Peter', 'schneider.peter@gmail.com', 'Migros'),
-(5, 'Widmer', 'Robin', 'Schule.Melanie@gmail.com', 'Migros'),
-(6, 'Gut', 'Elena', 'Schule.Melanie@gmail.com', 'Migros');
+(5, 'Widmer', 'Robin', 'robin.widmer@gmail.com', 'Migros'),
+(6, 'Gut', 'Elena', 'gut.elena@gmail.com', 'Migros');
 
 -- --------------------------------------------------------
 
