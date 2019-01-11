@@ -22,7 +22,7 @@ SET time_zone = "+00:00";
 -- Datenbank: `m226_lb2`
 --
 
-Create DATABASE `m226_lb2`
+CREATE DATABASE `m226_lb2`
 
 -- --------------------------------------------------------
 
